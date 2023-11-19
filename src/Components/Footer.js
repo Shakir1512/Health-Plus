@@ -68,30 +68,30 @@ function Footer() {
           <p className="ft-list-title">Talk To Us</p>
           <ul className="ft-list-items">
             <li>
-              <a href="mailto:support@healthplus.com">support@healthplus.com</a>
+              <a href="mailto:mdshakir151200@gmail.com">mdshakir151200@gmail.com</a>
             </li>
             <li>
-              <a href="mailto:appointment@healthplus.com">
+              <a href="mailto:mdshakir151200@gmail.com">
                 appointment@healthplus.com
               </a>
             </li>
             <li>
-              <a href="tel:+022 5454 5252">+022 5454 5252</a>
+              <a href="tel:+022 5454 5252">+022 XXXX 5252</a>
             </li>
             <li>
-              <a href="tel:+022 2326 6232">+022 2326 6232</a>
+              <a href="tel:+022 2326 6232">+022 XXXX 6232</a>
             </li>
           </ul>
         </div>
       </div>
 
       <div className="ft-copyright">
-        <p>© 2013-2023 Health+. All rights reserved.</p>
+        <p>©<b> 2023 Mohammad Shakir</b>. All rights reserved.</p>
 
         <ul className="ft-social-links">
           <li>
             <a
-              href="https://linkedin.com/in/Alkaison/"
+              href="https://www.linkedin.com/in/mohammad-shakir-b6318b1b7/"
               title="LinkedIn"
               target="_blank"
               rel="noopener noreferrer"
@@ -125,7 +125,7 @@ function Footer() {
 
           <li>
             <a
-              href="https://x.com/Alkaison/"
+              href=""
               title="Twitter"
               target="_blank"
               rel="noopener noreferrer"
